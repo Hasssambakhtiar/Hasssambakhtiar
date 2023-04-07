@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hasssambakhtiar
-- 👀 I’m interested in Mechanical Engineering
-- 🌱 I’m currently learning Mechanical Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Mechanical Engineering, Project Management, and Andriod game development.
 - 📫 hassambakhtiar@gmail.com
 
 <!---
