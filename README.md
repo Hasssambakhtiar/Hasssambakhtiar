@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hasssambakhtiar
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Mechanical Engineering, Project Management, and Andriod game development.
+- 👀 I’m interested in Developing Interdisciplinary Research models
+- 🌱 I’m currently learning AI.
 - 📫 hassambakhtiar@gmail.com
 
 <!---
